@@ -1,0 +1,42 @@
+
+.franja {
+  background-color: gray;
+  height: 70px;
+
+
+}
+
+h1,
+h2 {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  font-size: 30px;
+  color: #000000;
+
+}
+
+
+#html {
+  height: 30vh;
+  float: left;
+  padding-left: 40vh;
+  margin-top: 20px;
+
+}
+
+#css {
+  height: 30vh;
+  float: left;
+  padding-left: 40vh;
+  margin-top: 20px;
+
+}
+
+
+p {
+  padding-left: 40vh;
+  padding-right: 40vh;
+  font-size: 20px;
+  text-align: justify;
+}
