@@ -1,3 +1,10 @@
+header{
+  display: flex;
+  justify-content:center ;
+  padding: 3%;
+  font: 700 2.625rem/3.375rem "Open Sans", sans-serif;
+}
+
 
 .franja {
   background-color: gray;
@@ -6,7 +13,7 @@
 
 }
 
-h1,
+
 h2 {
   position: relative;
   top: 10px;
